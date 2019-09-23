@@ -30,7 +30,6 @@
     "webpack": "^3.6.0"
   },
   "dependencies": {
-    "sortablejs": "^1.6.1",
     "vue": "^2.4.4"
   }
 }
