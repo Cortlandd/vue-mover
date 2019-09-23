@@ -58,6 +58,7 @@
      }
     });             
 */
+import Sortable from 'scripts/Sortable.js'
 if (!Sortable) {
     throw new Error('[vue-mover] cannot locate `Sortablejs` dependency.')
 }
